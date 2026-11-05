@@ -20,7 +20,7 @@ https://denysmatsevych.github.io/web-development-2026/react/labs/lab-2/
 
 ## Дерево рендерингу
 
-Заповніть за вкладкою **Components  у React DevTools.
+Заповнено за вкладкою **Components  у React DevTools.
 
 ```text
 App
@@ -40,7 +40,7 @@ App
 
 ## Дерево залежностей модулів
 
-Заповніть за рядками `import` у файлах `src/`.
+Заповнено рядками `import` у файлах `src/`.
 
 ```text
 main.jsx
